@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as bs
 import requests
 import sqlite3
 
-TOKEN = "OTQ4MjQzMTA0NjIyODU4MjYx.Yh4-NQ.wVtQ8MGp3Pf6N9-arwKkd_V1F7Q"
+TOKEN = ""
 
 intents = discord.Intents.all()
 intents.members = True
